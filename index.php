@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="assets/css/preloader.csss" />
 	<link rel="stylesheet" href="assets/css/style.css" />
 	<script src='assets/js/script.js'></script>
-<head>
+</head>
 <body>
 
 	<div class="preloader">
