@@ -8,7 +8,7 @@ $(document).ready(function(){
 			$jours.hide();
 			$('.wrapper').fadeIn('slow', function(){
 				$jours.first().fadeIn('slow');
-				$puces.removeClass('active').first.addClass('active');
+				$puces.removeClass('active').first().addClass('active');
 			});
 		}, 2000);
 		
