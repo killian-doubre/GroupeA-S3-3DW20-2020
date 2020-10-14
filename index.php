@@ -41,7 +41,7 @@
 		<section class="contenu">
 		    <h1>
 		    	Limoges, FR 
-		    	<a href="http://maps.google.com/maps?q=45.831532,1.2578 class="lk" target="_blank" title="Voir sur une carte">
+		    	<a href="http://maps.google.com/maps?q=45.831532,1.2578" class="lk" target="_blank" title="Voir sur une carte">
 		    		Voir sur une carte
 		    	</a>
 		    </h1>
